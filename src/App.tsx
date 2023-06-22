@@ -13,6 +13,8 @@ const App = () => {
 
       </header>
 
+      
+
 
 
       <div className={styles.container}>
@@ -29,6 +31,10 @@ const App = () => {
           />
           <button>Calcular</button>          
         </div>
+
+
+
+
 
         <div className={styles.rightSide}>
           joinha
